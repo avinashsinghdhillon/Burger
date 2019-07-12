@@ -2,10 +2,11 @@
     Invent new burgers and then "Devour" them in the "Burger Wish List" app.
 
 ### How it works:
-    * #### Devour It
+
+#### Devour It
         The page comes pleloaded with three burgers in the "Burgers Invented" section. Click the "Devour it!" button next to the burger name to devour it. The devoured burger is moved into the "Burgers Devoured" section.
     
-    * #### Add Burger
+#### Add Burger
         Invent your own burgers and add them to the "Burgers Invented" section by filling out the text box at the bottom and clicking the "Add Burger" button. Then feel free to devour your own invention.
     
 ### Technologies incorporated:
